@@ -2,7 +2,7 @@
 
 
 ¡Como estás! Soy Alberto, un desarrollador Back-End inmerso en el mundo de Java y Spring Boot. 
-Mi enfoque se basa en la Arquitectura de Microservicios siguiendo las mejores prácticas de programación con metodologías como TDD y DDD, verificando el código de una manera profesional y asegurando su calidad mediante SonarQube. 💡
+Mi enfoque se basa en la Arquitectura de Microservicios mediante la Ingeniería SOLID, siguiendo las mejores prácticas de programación con metodologías como TDD y DDD, verificando el código de una manera profesional y asegurando su calidad mediante SonarQube. 💡
 
 ## Experiencia y Conocimientos
 - 💻 Java y Spring Boot
