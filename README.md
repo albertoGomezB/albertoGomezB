@@ -27,7 +27,9 @@ Mi enfoque se basa en la Arquitectura de Microservicios siguiendo las mejores pr
 
 ## Mis VideoTutoriales
 - 🎥 [Aplicando TDD en SpringBoot](https://www.linkedin.com/feed/update/urn:li:activity:7118525402741907456/?originTrackingId=uLCs2RtyTO6ym1MjSSkNyg%3D%3D)
-- 🎥 [Ejemplo básico explicando las diferencias entre Java 7 y Java 8](https://www.linkedin.com/feed/update/urn:li:activity:7120700528115740674/) 
+- 🎥 [Ejemplo básico explicando las diferencias entre Java 7 y Java 8](https://www.linkedin.com/feed/update/urn:li:activity:7120700528115740674/)
+- Creando Api Rest en Spring primera parte ... 🚧
+- Creando Api Rest en Spring segunda parte ... 🚧
 
 ## Spring Profesional Api Rest 
 https://github.com/albertoGomezB/albertoGomezB/assets/99688181/525759a1-11ac-4398-8cee-31e5189b8d43
