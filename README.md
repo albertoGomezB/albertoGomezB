@@ -17,7 +17,8 @@ Mi enfoque se basa en la Arquitectura de Microservicios mediante la Ingeniería 
 - [Arquitectura Monolito vs Arquitectura de Microservicios](https://www.linkedin.com/feed/update/urn:li:activity:7115246797811265539/) 
 - [Principios SOLID y la guía hacia un mejor código](https://www.linkedin.com/feed/update/urn:li:activity:7117432360333135874/) 
 - [TDD en el desarrollo de software](https://www.linkedin.com/feed/update/urn:li:activity:7118525402741907456/?originTrackingId=0ZLGDW2EQWatwySc%2BRU3kA%3D%3D) 
-- [Java8 y la Revolución de la Programación Funcional](https://www.linkedin.com/feed/update/urn:li:activity:7119974627090513921/) 
+- [Java8 y la Revolución de la Programación Funcional](https://www.linkedin.com/feed/update/urn:li:activity:7119974627090513921/)
+- [Los Paradigmas de la Programación](https://www.linkedin.com/feed/update/urn:li:activity:7122871519373877248/)
 
 ## Proyectos Destacados
 - [Seguridad Empleados V1](https://github.com/albertoGomezB/SeguridadEmpleados-V1) 🔒
@@ -26,13 +27,16 @@ Mi enfoque se basa en la Arquitectura de Microservicios mediante la Ingeniería 
 - Seguridad Empleados V2 En proceso ... 🚧
 
 ## Mis VideoTutoriales
-- 🎥 [Aplicando TDD en SpringBoot](https://www.linkedin.com/feed/update/urn:li:activity:7118525402741907456/?originTrackingId=uLCs2RtyTO6ym1MjSSkNyg%3D%3D)
 - 🎥 [Ejemplo básico explicando las diferencias entre Java 7 y Java 8](https://www.linkedin.com/feed/update/urn:li:activity:7120700528115740674/)
-- Creando Api Rest en Spring primera parte ... 🚧
-- Creando Api Rest en Spring segunda parte ... 🚧
+- 🎥 [Aplicando TDD en SpringBoot primera parte](https://www.linkedin.com/feed/update/urn:li:activity:7118525402741907456/?originTrackingId=uLCs2RtyTO6ym1MjSSkNyg%3D%3D)
+- 🎥 [Aplicando TDD en SpringBoot segunda parte](https://www.linkedin.com/feed/update/urn:li:activity:7122512524683419648/)
+- 🎥 [Creando API REST en Spring Boot primera parte](https://www.linkedin.com/feed/update/urn:li:activity:7122873830615703552/)
+- 🎥 [Creando API REST en Spring Boot segunda parte](https://www.linkedin.com/feed/update/urn:li:activity:7122877241990004736/)
 
 ## Spring Profesional Api Rest 
 https://github.com/albertoGomezB/albertoGomezB/assets/99688181/525759a1-11ac-4398-8cee-31e5189b8d43
+
+
 
 ## Comunidad De Desarrolladores
 Actualmente formo parte en la comunidad de Desarrolladores Moure Dev en Discord, en la cual investigo junto con otras personas temas relacionados con Java, Patrones de Diseño y Spring en el Back-End 💬. 
