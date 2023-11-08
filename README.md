@@ -28,8 +28,8 @@ Mi enfoque se basa en la Arquitectura de Microservicios mediante la Ingeniería 
 
 ## Proyectos Destacados
 
-- [Poke-Services](https://github.com/albertoGomezB/SeguridadEmpleados-V1](https://github.com/albertoGomezB/Microservicios-Pokemon)) 🌐
-- [Mongo-Documents](https://github.com/albertoGomezB/SeguridadEmpleados-V1](https://github.com/albertoGomezB/Microservicios-Documentos)) 📁
+- [Poke-Services](https://github.com/albertoGomezB/Poke-Services) 🌐
+- [Mongo-Documents](https://github.com/albertoGomezB/Mongo-Documents) 📁
 - [Spring-Security-v1](https://github.com/albertoGomezB/Spring-Security-v1) 🔒
 - [Spring-Security-v2](https://github.com/albertoGomezB/Spring-Security-v2) 🔒
 
