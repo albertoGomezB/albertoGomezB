@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Back-End Developer** with **4 years of experience** building scalable cloud applications using **Java** and **AWS**. My focus is on creating robust **microservices**, optimizing **cloud-based solutions**, and automating development pipelines. I aim to write **clean code**, implement **best practices**, and create **high-performance** systems. Always seeking to improve and expand my skills in modern technologies.
+I’m a **Back-End Developer** with ** over 4 years of experience** building scalable cloud applications using **Java** and **AWS**. My focus is on creating robust **microservices**, optimizing **cloud-based solutions**, and automating development pipelines. I aim to write **clean code**, implement **best practices**, and create **high-performance** systems. Always seeking to improve and expand my skills in modern technologies.
 
 ---
 
