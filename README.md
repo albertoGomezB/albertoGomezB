@@ -1,64 +1,73 @@
-# Alberto Gómez Barral
-**Back-End Developer | Java & AWS Specialist**  
+# 👋 Hi, I’m Alberto Gómez Barral  
+**Senior Cloud Engineer & Technical Java Architect (AWS · Serverless · Spring Boot)**  
 📍 A Coruña, Spain  
 ✉️ [albertog1997@gmail.com](mailto:albertog1997@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/albertogb97)
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me  
 
-I’m a **Back-End Developer** with over 4 years of experience building scalable cloud applications using **Java** and **AWS**. My focus is on creating robust **microservices**, optimizing **cloud-based solutions**, and automating development pipelines. I aim to write **clean code**, implement **best practices**, and create **high-performance** systems. Always seeking to improve and expand my skills in modern technologies.
+I’m a **Senior Cloud Engineer and Technical Java Architect** with over **5 years of experience** designing, building, and scaling **cloud-native systems on AWS**.  
+My focus is on creating **secure**, **high-performance**, and **maintainable** architectures that blend strong backend engineering with cloud automation and thoughtful design.
 
----
+I specialize in **Java 21**, **Spring Boot**, and **AWS CDK**, applying clean architecture and modern patterns to deliver systems that evolve gracefully over time.  
+Currently contributing to a **multi-country digital signature and document management platform**, where I lead design and integration of serverless, event-driven components on AWS.
 
-## 🔧 Key Technologies & Tools
-
-### **Programming Languages & Frameworks**
-- **Java (8, 11, 17, 21)**: Strong background in modern Java versions, focusing on efficient and scalable solutions.
-- **Spring Boot**: Proficient in building **microservices** and **RESTful APIs**.
-- **Spring Cloud**: Experience in cloud-native apps with **Spring Cloud**, enhancing service orchestration.
-- **OpenAPI/Swagger**: Expertise in designing, documenting, and validating APIs for clear communication and integration.
-
-### **Cloud Computing & DevOps**
-- **AWS**: Hands-on experience with **EC2**, **Lambda**, **RDS**, **S3**, **SQS**, **SNS**, **API Gateway**, **CloudFormation**, **Secrets Manager**, **Parameter Store**, **OpenSearch**, **EKS**.
-- **CI/CD**: Implementing **CI/CD** pipelines using **AWS CodePipeline**, **Jenkins**, and **Docker**.
-- **Docker**: Containerizing applications to improve scalability and deployment flexibility.
-
-### **Testing & Code Quality**
-- **JUnit & Mockito**: Adept at writing **unit** and **integration tests** for reliable and maintainable code.
-- **SonarQube**: Ensuring **code quality** and adherence to best practices through continuous analysis.
-
-### **Architectural Patterns**
-- **Microservices**: Strong experience in building **resilient**, **scalable** systems with **microservices**.
-- **SOLID Principles**: Applying **SOLID** principles to maintain **clean**, **modular**, and **scalable code**.
-- **Domain-Driven Design (DDD)**: Creating applications based on business domain modeling for clarity and flexibility.
-- **Hexagonal Architecture**: Ensuring separation of concerns and easier testing with a **hexagonal approach**.
-
-### **Version Control & Collaboration**
-- **Git**: Proficient with **Git** for version control, using **SourceTree** for management.
-- **Agile/Scrum**: Familiar with **Agile methodologies** and using **Jira** for task and sprint management.
+✨ For me, technology is a craft — combining precision, creativity, and structure. Every architecture is an opportunity to simplify complexity and build systems that last.
 
 ---
 
-## 🛠 Projects & Contributions
+## ☁️ Cloud & Architecture Expertise  
 
-### **Personal Projects**
-- **Scalable Microservices Platform**: Built a scalable **cloud-native microservices architecture** on **AWS** with **Spring Boot** and **Java** for high-traffic handling.
-- **Real-Time Data Processing**: Developed a real-time data processing system using **Kafka** and **AWS Lambda**, processing millions of events daily.
-
----
-
-## 🎯 Certifications
-
-- **AWS Certified Cloud Practitioner** (Exp. Aug 2027)
-- **Microsoft Certified: Azure Fundamentals**
-- **In Progress**: **AWS Solutions Architect – Associate**
+- **Languages & Frameworks** — Java 21 · Spring Boot 3 · REST APIs · Microservices  
+- **AWS Cloud Services** — Lambda · API Gateway · DynamoDB · S3 · Secrets Manager · SSM · Route 53 · CloudWatch · CDK · CloudFormation  
+- **Architecture Patterns** — Serverless · Event-Driven · Hexagonal · Domain-Driven Design · Multi-Region Resilience  
+- **Integration & Security** — OAuth2 · Azure AD · Confluent Kafka · SQS/SNS  
+- **Quality & Reliability** — JUnit 5 · Mockito · SonarQube · Clean Code · SOLID  
+- **Automation & Tooling** — Docker · GitHub Actions · CodePipeline  
 
 ---
 
-## 🌐 Let's Connect
+## 🚀 Highlights  
 
-I’m always open to collaborating on challenging projects or discussing technology. Feel free to contact me for **new opportunities**, **tech talks**, or **collaborations**.
+- **Architected DocThor**, a multi-country AWS-based document integration platform replacing legacy Documentum — delivering major cost savings and scalability improvements.  
+- Designed **secure credential isolation** using AWS Secrets Manager and SSM for country-specific Azure AD credentials, achieving zero-trust compliance.  
+- Implemented **real-time audit processing** using DynamoDB Streams + Lambda + OpenSearch, automating document lifecycle tracking.  
+- Reduced **cloud infrastructure costs by 25%** through optimized design and proactive FinOps analysis.  
+- Authored **architecture diagrams and technical documentation** used by multiple distributed teams for onboarding and maintenance.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/34347d45-3e91-4c3d-8635-fc6eb2eabd8e" 
+       alt="Integration Flow of Multiple Document Repositories" width="32%" style="margin:8px; border-radius:10px;"/>
+  <img src="https://github.com/user-attachments/assets/74acbc52-c836-4150-82d1-0803aa004f93" 
+       alt="Properties by Country" width="32%" style="margin:8px; border-radius:10px;"/>
+  <img src="https://github.com/user-attachments/assets/a5f8a14a-bb8b-4661-92b1-7d28194fe3b0" 
+       alt="Kafka Multi-Country Integration" width="32%" style="margin:8px; border-radius:10px;"/>
+</p>
+
+<p align="left">
+  <i>Architecture diagrams illustrating the evolution from dynamic repository resolution to multi-country credential management and event-driven integration with Kafka.</i>
+</p>
+
+---
+
+## 🎓 Certifications  
+
+- 🟩 **AWS Certified Cloud Practitioner** (Valid through 2027)  
+- 🧭 **In Progress:** AWS Solutions Architect – Associate  
+
+---
+
+## 🛠️ Technologies  
+
+`Java 21` · `Spring Boot` · `AWS CDK` · `AWS Lambda` · `API Gateway` · `S3` · `DynamoDB` · `Secrets Manager` · `SSM` · `CloudWatch` · `Route 53` · `ACM` · `CloudFormation` · `SQS` · `Kafka` · `OAuth2` · `Azure AD` · `Docker` · `GitHub Actions` · `SonarQube` · `JUnit` · `Mockito` · `PostgreSQL` · `MongoDB`
+
+---
+
+## 🌍 Let’s Connect  
+
+I’m always open to **collaborating on cloud-native architectures**, **technical design discussions**, or **knowledge sharing**.  
+Let’s build reliable, scalable systems — thoughtfully engineered for the long term.
 
 ---
