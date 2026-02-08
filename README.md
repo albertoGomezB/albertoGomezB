@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alberto Gómez Barral  
+# 👋 Hi, I’m Alberto Gómez 
 **Senior Cloud Engineer & Technical Java Architect (AWS · Serverless · Spring Boot)**  
 📍 A Coruña, Spain  
 ✉️ [albertog1997@gmail.com](mailto:albertog1997@gmail.com)  
