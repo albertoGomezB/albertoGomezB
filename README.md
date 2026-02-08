@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Alberto Gómez 
-**Senior Cloud Engineer & Technical Java Architect (AWS · Serverless · Spring Boot)**  
+**Senior Backend Engineer**  
 📍 A Coruña, Spain  
 ✉️ [albertog1997@gmail.com](mailto:albertog1997@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/albertogb97)
@@ -8,10 +8,10 @@
 
 ## 🧠 About Me  
 
-I’m a **Senior Cloud Engineer and Technical Java Architect** with over **5 years of experience** designing, building, and scaling **cloud-native systems on AWS**.  
+I’m a **Senior Backend Engineer** with over **6 years of experience** designing, building, and scaling **cloud-native systems on AWS**.  
 My focus is on creating **secure**, **high-performance**, and **maintainable** architectures that blend strong backend engineering with cloud automation and thoughtful design.
 
-I specialize in **Java 21**, **Spring Boot**, and **AWS CDK**, applying clean architecture and modern patterns to deliver systems that evolve gracefully over time.  
+I specialize in **Java 21**, **Spring Boot**, and **AWS**, applying clean architecture and modern patterns to deliver systems that evolve gracefully over time.  
 Currently contributing to a **multi-country digital signature and document management platform**, where I lead design and integration of serverless, event-driven components on AWS.
 
 ✨ For me, technology is a craft — combining precision, creativity, and structure. Every architecture is an opportunity to simplify complexity and build systems that last.
