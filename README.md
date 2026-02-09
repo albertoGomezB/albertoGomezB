@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Alberto Gómez 
-**Senior Backend Engineer**  
+**Senior Backend Engineer | Java 21 & AWS | Distributed Systems, Event-Driven & Product Platforms**  
 📍 A Coruña, Spain  
 ✉️ [albertog1997@gmail.com](mailto:albertog1997@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/albertogb97)
@@ -9,9 +9,9 @@
 ## 🧠 About Me  
 
 I’m a **Senior Backend Engineer** with over **6 years of experience** designing, building, and scaling **cloud-native systems on AWS**.  
-My focus is on creating **secure**, **high-performance**, and **maintainable** architectures that blend strong backend engineering with cloud automation and thoughtful design.
+My focus is on owning and evolving **secure**, **high-performance**, and **maintainable** architectures that blend strong backend engineering with cloud automation and thoughtful design.
 
-I specialize in **Java 21**, **Spring Boot**, and **AWS**, applying clean architecture and modern patterns to deliver systems that evolve gracefully over time.  
+I design and own backend architectures using **Java 21**, **Spring Boot**, and **AWS**, applying clean architecture and modern patterns to deliver systems that evolve gracefully over time.  
 Currently contributing to a **multi-country digital signature and document management platform**, where I lead design and integration of serverless, event-driven components on AWS.
 
 ✨ For me, technology is a craft — combining precision, creativity, and structure. Every architecture is an opportunity to simplify complexity and build systems that last.
@@ -24,8 +24,8 @@ Currently contributing to a **multi-country digital signature and document manag
 - **AWS Cloud Services** — Lambda · API Gateway · DynamoDB · S3 · Secrets Manager · SSM · Route 53 · CloudWatch · CDK · CloudFormation  
 - **Architecture Patterns** — Serverless · Event-Driven · Hexagonal · Domain-Driven Design · Multi-Region Resilience  
 - **Integration & Security** — OAuth2 · Azure AD · Confluent Kafka · SQS/SNS  
-- **Quality & Reliability** — JUnit 5 · Mockito · SonarQube · Clean Code · SOLID  
-- **Automation & Tooling** — Docker · GitHub Actions · CodePipeline  
+- **Quality & Reliability** — JUnit 5 · Mockito · SonarQube · Clean Code · SOLID
+- **Supporting Tooling** — Docker · CI/CD (GitHub Actions)
 
 ---
 
@@ -61,7 +61,12 @@ Currently contributing to a **multi-country digital signature and document manag
 
 ## 🛠️ Technologies  
 
-`Java 21` · `Spring Boot` · `AWS CDK` · `AWS Lambda` · `API Gateway` · `S3` · `DynamoDB` · `Secrets Manager` · `SSM` · `CloudWatch` · `Route 53` · `ACM` · `CloudFormation` · `SQS` · `Kafka` · `OAuth2` · `Azure AD` · `Docker` · `GitHub Actions` · `SonarQube` · `JUnit` · `Mockito` · `PostgreSQL` · `MongoDB`
+`Java 21` · `Spring Boot` · `AWS CDK` · `AWS Lambda` · `API Gateway` · `DynamoDB` · 
+`S3` · `Secrets Manager` · `SSM` · `CloudWatch` · 
+`Kafka` · `SQS` · `OAuth2` · `Azure AD` · 
+`Docker` · `JUnit` · `Mockito` · `OpenAPI` · `SonarQube`
+`PostgreSQL` · `MongoDB` · `Kotlin`
+
 
 ---
 
