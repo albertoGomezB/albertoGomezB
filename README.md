@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Alberto Gómez 
-**Senior Backend Engineer | Java 21 & AWS | Distributed Systems, Event-Driven & Product Platforms**  
+**Senior Backend Engineer | AWS | Distributed Systems | Event-Driven**  
 📍 A Coruña, Spain  
 ✉️ [albertog1997@gmail.com](mailto:albertog1997@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/albertogb97)
@@ -21,7 +21,7 @@ Currently contributing to a **multi-country digital signature and document manag
 ## ☁️ Cloud & Architecture Expertise  
 
 - **Languages & Frameworks** — Java 21 · Spring Boot 3 · REST APIs · Microservices  
-- **AWS Cloud Services** — Lambda · API Gateway · DynamoDB · S3 · Secrets Manager · SSM · Route 53 · CloudWatch · CDK · CloudFormation  
+- **AWS Cloud Services** — Lambda · API Gateway · DynamoDB · S3 · Secrets Manager · SSM · CloudWatch · CDK · CloudFormation  
 - **Architecture Patterns** — Serverless · Event-Driven · Hexagonal · Domain-Driven Design · Multi-Region Resilience  
 - **Integration & Security** — OAuth2 · Azure AD · Confluent Kafka · SQS/SNS  
 - **Quality & Reliability** — JUnit 5 · Mockito · SonarQube · Clean Code · SOLID
